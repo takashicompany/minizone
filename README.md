@@ -70,12 +70,39 @@ miniZoneはiPad miniのようなタブレット端末と一緒に持ち歩くこ
 
 4箇所をハンダ付けします。
 <img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_9877_2.jpg?raw=true" width="600px" />
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
+
+### 4. Pro Microを取り付ける
+
+キーボードの頭脳部分としてPro Microを取り付けます。  
+<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_9866.jpg?raw=true" width="600px" />
+
+取り付け位置はPCB中央の奥側、表面です。  
+<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_9868.jpg?raw=true" width="600px" />
+
+取り付けの際に、Pro MicroのピンとPCBのピンが合致することを確認してください。  
+PCBはBLE Micro Proに対応するために13ピンとなっております。(Pro Microは12ピン)  
+一番奥側のピンはBLE Micro Pro用になっております。
+<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_9870.jpg?raw=true" width="600px" />
+
+Pro Microをはんだ付けします。  
+miniZoneのPCBはコンスルーに対応しております。  
+<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_9872.jpg?raw=true" width="600px" />
+
+Pro MicroをPCBに取り付けた後、ファームウェアを書き込んで2.で取り付けたダイオードの動作をチェックします。  
+キースイッチ穴をショートさせて(キースイッチ穴をピンセットなどでつなぐ)キーが入力されるかを確認します。  
+
+<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_9874.jpg?raw=true" width="600px" />
+
+
+### 5. LEDを取り付ける
+
+LEDの取り付けは、最後でも問題有りません。  
+LEDを取り付けなくてもキーボードは動作します。
+
+LED1番のみ、[SK6812MINI-E](https://shop.yushakobo.jp/products/sk6812mini-e-10)を使います。  
+<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_9884.jpg?raw=true" width="600px" />
+
+
 <img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
 <img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
 <img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
