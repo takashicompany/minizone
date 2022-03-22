@@ -102,13 +102,21 @@ LEDを取り付けなくてもキーボードは動作します。
 LED1番のみ、[SK6812MINI-E](https://shop.yushakobo.jp/products/sk6812mini-e-10)を使います。  
 <img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_9884.jpg?raw=true" width="600px" />
 
+中央手前側、PCB裏面に取り付けます。  
+<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_9885.jpg?raw=true" width="600px" />
 
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
+ダイオードやリセットスイッチの取り付けと同じく、予備ハンダを行います。  
+<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_9886.jpg?raw=true" width="600px" />
+
+4箇所をはんだ付けします。  
+<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_9888.jpg?raw=true" width="600px" />
+
+はんだ付けができたらPro MicroをUSBでPCなどに取り付けて光るかを確認します。  
+<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_9889.jpg?raw=true" width="600px" />
+
+LED2番から11番の計10個は[WS2812B](https://shop.yushakobo.jp/products/a0800ws-01-10)を使います。
 <img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
 
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
 <img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
 <img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
 <img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
