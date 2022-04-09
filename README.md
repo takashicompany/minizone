@@ -143,35 +143,96 @@ LED2番から11番の計10個は[WS2812B](https://shop.yushakobo.jp/products/a08
 
 ### 7. キースイッチプレートとキースイッチの取り付け
 
+miniZoneはKailh Choc v1キースイッチとCherry MX互換のキースイッチに対応しております。  
+**Cherry MX互換キースイッチを利用する際は、スイッチプレートの取り付け位置に留意ください。場合によってはスペーサーとネジを別途購入いただくのが良いかと思います。**
+
 キースイッチプレートから保護紙を剥がします。  
 <img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_9839.jpg?raw=true" width="600px" />
 
-
+キースイッチプレートをPCBの表面に載せます。  
 <img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_0217.jpg?raw=true" width="600px" />
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
 
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
+キースイッチプレートにキースイッチを8個ほどはめて、仮止めを行います。  
+<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_0218.jpg?raw=true" width="600px" />
+
+PCBを裏返してキースイッチをハンダ付けします。  
+裏返す際にマスキングテープで固定しておくと作業がスムーズに行えるかと思います。  
+<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_0220.jpg?raw=true" width="600px" />
+
+キースイッチの足を2箇所ハンダ付けすれば完了です。  
+他の箇所も同様にハンダ付けを行います。  
+<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_0221.jpg?raw=true" width="600px" />
+
+全部で38箇所にキースイッチを取り付けます。  
+<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_0223.jpg?raw=true" width="600px" />
+
+### 8. スペーサーの取り付け
+
+Pro Microプレートを取り付ける際に支柱となるスペーサーを取り付けます。  
+<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_0232.jpg?raw=true" width="600px" />
+
+下図のように4箇所にスペーサーを取り付けます。
+<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_0236.jpg?raw=true" width="600px" />
+
+取り付けの際は5mmのネジを使用します。  
+<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_0256.jpg?raw=true" width="600px" />
+
+下図のようにPCBの裏面からネジでスペーサーを固定します。  
+<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_0234.jpg?raw=true" width="600px" />
+
+### 9. 側面プレートとボトムプレートの取り付け
+
+側面プレートの保護シートを剥がします。  
+<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_0237.jpg?raw=true" width="600px" />
+
+側面プレートはPCBの裏側からPCBの外周を覆うように取り付けます。  
+<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_0238.jpg?raw=true" width="600px" />
+
+ボトムプレートも同様に保護シートを剥がします。  
+肉抜き部分にアクリル片が残っている場合はドライバーやピンセットなどで押し込んで取り出してください。  
+<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_0240.jpg?raw=true" width="600px" />
+
+ボトムプレートをPCBの裏面に載せます。  
+<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_0243.jpg?raw=true" width="600px" />
+
+8mmのネジとナットを用いてキースイッチプレート・側面プレート・ボトムプレートを固定します。  
+<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_0245.jpg?raw=true" width="600px" />
+
+10箇所にネジを取り付けます。  
+<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_0248b.jpg?raw=true" width="600px" />
+
+底面からナットでネジを固定します。  
+<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_0249.jpg?raw=true" width="600px" />
+
+Pro Micro付近のネジ穴のみ、ボトムプレートから8mmネジを取り付けます。  
+この箇所はスペーサーでネジを固定します。
+<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_0250.jpg?raw=true" width="600px" />
+
+下図のようにスペーサーを取り付けます。  
+<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_0253.jpg?raw=true" width="600px" />
+
+### 10. Pro Microプレートの取り付け
+
+Pro Microプレートから保護シートを剥がします。  
+<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_0255.jpg?raw=true" width="600px" />
+
+Pro Microプレートをスペーサーに取り付けます。  
+取り付けの際は5mmのネジを用います。  
+<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_0259.jpg?raw=true" width="600px" />
+
+### 11. ゴム足シールの取り付け
+
+ゴム足シールを取り付けます。  
+<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_0260.jpg?raw=true" width="600px" />
+
+個人のお好みでつけて頂く感じが良いかと思います。
+取り付け例は以下になります。  
+<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_0263.jpg?raw=true" width="600px" />
+
+### 12. キーキャップの取り付け
+キーキャップを取り付けます。  
+<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_0267.jpg?raw=true" width="600px" />
+
 <img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
 <img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
 <img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
