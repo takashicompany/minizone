@@ -233,53 +233,52 @@ Pro Microプレートをスペーサーに取り付けます。
 キーキャップを取り付けます。  
 <img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_0267.jpg?raw=true" width="600px" />
 
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
+### 13. 完成したら...
 
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
+### 14. オプション : OLEDの取り付け
 
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
+miniZoneはOLEDを取り付けることが可能です。  
+「 6. OLEDピンソケットの取り付け」を事前に行うとスムーズに進められます。
+<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_0289.jpg?raw=true" width="600px" />
+
+OLED用のファームウェアをPro Microに書き込みます。  
+[こちら](https://remap-keys.app/catalog/w4Y6eN0uA5mSJ4qyGqcC/firmware)から「Default VIA」を書き込むことも可能です。  
+OLEDとピンヘッダをハンダ付けする際は、ピンソケットに差し込んだ状態で行うとスムーズに作業が可能です。  
+<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_0294.jpg?raw=true" width="600px" />
+
+OLED用のPro Microプレートを取り付けて完成です。  
+<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_0297.jpg?raw=true" width="600px" />
+
+### 15. オプション : トラックボールの取り付け
+
+[7mmオプティカルトラックボールモジュール１uタイプ](https://shop.yushakobo.jp/products/adtb7m?variant=37665336164513)を取り付けることができます。  
+<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_9933.jpg?raw=true" width="600px" />
+
+
+取り付けの際は[トラックボールモジュール用レベル変換基板](https://shop.yushakobo.jp/products/a0800tl-01-1)を用います。  
+「 6. OLEDピンソケットの取り付け」を事前に行うとスムーズに進められます。  
+<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_9930.jpg?raw=true" width="600px" />
+
+最終的な取り付けのイメージは以下です。
+<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_0317.jpg?raw=true" width="600px" />
+
+トラックボールモジュールの配線を上述の図のような取り付けができるように長さを調整します。  
+<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_9936.jpg?raw=true" width="600px" />
+
+導線を切断しないようにカッターでビニール膜に切れ込みを入れていきます。  
+<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_9937.jpg?raw=true" width="600px" />
+
+下図のように導線の部分を長めに出しておくとハンダ付けの際に調整がしやすいです。
+<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_9938.jpg?raw=true" width="600px" />
+
+下図のように導線を折り込むようにハンダ付けをすると外れづらくなります。  
+<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_9939.jpg?raw=true" width="600px" />
+
+表面は下図のようになるようにトラックボールモジュールをハンダ付けし、またピンヘッダを変換基盤にハンダ付けで固定します。
+<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_9940.jpg?raw=true" width="600px" />
+
+トラックボールモジュールの導線が折れないように、トラックボールモジュールをPro Micro上に配置します。  
+<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_0317.jpg?raw=true" width="600px" />
+
+トラックボールモジュール用のPro Microプレートを取り付けます。  
+<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_0319.jpg?raw=true" width="600px" />
