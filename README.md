@@ -1,6 +1,6 @@
 # miniZone
 
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/qmk.jpg?raw=true" width="800px" />
+<img src = "https://github.com/takashicompany/minizone/blob/master/images/qmk.jpg?raw=true" width="600px" />
 
 miniZoneはiPad miniのようなタブレット端末と一緒に持ち歩くことをコンセプトにしたコンパクトなキーボードです。
 横幅はiPad miniと同じですので、一緒にケースに入れることが可能です。
@@ -15,8 +15,6 @@ miniZoneはiPad miniのようなタブレット端末と一緒に持ち歩くこ
 (トラックボールを利用する際のソースコードは[こちら](https://github.com/takashicompany/qmk_firmware/tree/minizone/trackball/keyboards/takashicompany/minizone/keymaps/trackball))
 
 ---
-
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/qmk.jpg?raw=true" width="800px" />
 
 miniZone is a compact keyboard designed to be carried with a tablet device like iPad mini.
 Its width is the same as that of the iPad mini, so it can be placed in a case together.
