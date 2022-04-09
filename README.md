@@ -298,12 +298,17 @@ miniZoneはBLE Micro Pro用の電源を搭載して、Bluetoothによる無線�
 以下の箇所をハンダ付けします。  
 <img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_9954b.jpg?raw=true" width="600px" />
 
-[チップ積層セラミックコンデンサー](https://akizukidenshi.com/catalog/g/gP-02151/)をPCBに取り付けます。
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
+[チップ積層セラミックコンデンサー](https://akizukidenshi.com/catalog/g/gP-02151/)をPCBに取り付けます。  
+<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_9976.jpg?raw=true" width="600px" />
 
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
+予備ハンダをしてコンデンサーをハンダ付けします。向きは特にありません。
+<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_9880.jpg?raw=true" width="600px" />
 
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
+電源の[スイッチ(MK12C02)](https://ja.aliexpress.com/item/32798526843.html)を取り付けます。  
+<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_9957.jpg?raw=true" width="600px" />
+
+合計7箇所をハンダ付けします。  
+<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_9959.jpg?raw=true" width="600px" />
 
 <img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
 
