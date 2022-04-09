@@ -28,6 +28,54 @@ CR1632 battery can be attached to the base by using optional parts.
 In addition, a trackball is included, allowing you to perform all operations without taking your hands off the keyboard.
 (Source code for using the trackball is [here](https://github.com/takashicompany/qmk_firmware/tree/minizone/trackball/keyboards/takashicompany/minizone/keymaps/trackball))
 
+## 部品
+
+### キットに含まれているもの
+|部品|個数|備考|
+|:--|:--|:--|
+|PCB|1||
+|スイッチプレート|1||
+|側面プレート|1||
+|ボトムプレート|1||
+|Pro Microプレート|1||
+|OLED Pro Microプレート|1||
+|トラックボール Pro Microプレート|1||
+|[ダイオード(表面実装型)](https://shop.yushakobo.jp/collections/all-keyboard-parts/products/a0800di-02-100)|38||
+|[タクトスイッチ](https://akizukidenshi.com/catalog/g/gP-08081/)|1||
+|M2ネジ 8mm|12||
+|M2ネジ 5mm|10||
+|M2スペーサー 7mm|6||
+|M2ナット|10||
+
+### ご自身で用意頂くもの
+|部品|個数|備考|
+|:--|:--|:--|
+|[Kailh Choc v1キースイッチ](https://shop.yushakobo.jp/collections/all-switches/products/pg1350)|38||
+|0.8uキーキャップ(16mm)|38|[Choc 向け 挟ピッチ16mm 薄型キーキャップ](https://make.dmm.com/item/1273303/)、[KNキーキャップセット(Chocスイッチ 16x16mmキーピッチ用) v1.2](https://make.dmm.com/item/1280053/)にて動作することを確認済み|
+|Pro Micro|1|BLE Micro Proにも対応済み|
+
+### お好みで
+|部品|個数|備考|
+|:--|:--|:--|
+|コンスルー|2||
+
+### OLEDを搭載する場合
+|[OLEDモジュール](https://shop.yushakobo.jp/collections/all-keyboard-parts/products/oled)|1||
+|[OLED用ピンソケット](https://shop.yushakobo.jp/products/a1600ps-01-1)|1|ピンヘッダがあれば取り付け自体は可能だが付け替えができなくなるので使用を推奨。|
+
+### トラックボールモジュールを搭載する場合
+|[7mmオプティカルトラックボールモジュール１uタイプ](https://shop.yushakobo.jp/products/adtb7m)|1||
+|[トラックボールモジュール用レベル変換基板](https://shop.yushakobo.jp/products/a0800tl-01-1/)1||
+|[OLED用ピンソケット](https://shop.yushakobo.jp/products/a1600ps-01-1)|1|ピンヘッダがあれば取り付け自体は可能だが付け替えができなくなるので使用を推奨。|
+
+### BLE Micro Pro用に電源を搭載する場合
+|部品|個数|備考|
+|:--|:--|:--|
+|[HU1632](https://www.monotaro.com/p/8835/2765/)|1||
+|[チップ積層セラミックコンデンサー](https://akizukidenshi.com/catalog/g/gP-02151/)|1||
+|[電源スイッチ(MK12C02)](https://ja.aliexpress.com/item/32798526843.html)|1||
+|ボタン
+
 ## 組み立て方
 
 ### 1. PCBの表と裏を確認する
