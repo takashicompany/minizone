@@ -282,3 +282,28 @@ OLED用のPro Microプレートを取り付けて完成です。
 
 トラックボールモジュール用のPro Microプレートを取り付けます。  
 <img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_0319.jpg?raw=true" width="600px" />
+
+### 16. BLE Microと電池基盤の取り付け
+
+miniZoneはBLE Micro Pro用の電源を搭載して、Bluetoothによる無線接続が可能です。  
+<img src = "https://cdn.shopify.com/s/files/1/0532/0880/9633/products/DSC0005_2048x2048.jpg?raw=true" width="600px" />
+
+電池ホルダーとして[HU1632](https://www.monotaro.com/p/8835/2765/)をPCBに取り付けることが可能です。  
+使用するボタン電池はCR1632となります。  
+<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_9950.jpg?raw=true" width="600px" />
+
+電池ホルダーをPCBに取り付ける際は、マスキングテープなどで固定すると作業がスムーズに進められます。  
+<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_9952.jpg?raw=true" width="600px" />
+
+以下の箇所をハンダ付けします。  
+<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_9954b.jpg?raw=true" width="600px" />
+
+[チップ積層セラミックコンデンサー](https://akizukidenshi.com/catalog/g/gP-02151/)をPCBに取り付けます。
+<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
+
+<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
+
+<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
+
+<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
+
