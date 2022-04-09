@@ -288,6 +288,10 @@ OLED用のPro Microプレートを取り付けて完成です。
 miniZoneはBLE Micro Pro用の電源を搭載して、Bluetoothによる無線接続が可能です。  
 <img src = "https://cdn.shopify.com/s/files/1/0532/0880/9633/products/DSC0005_2048x2048.jpg?raw=true" width="600px" />
 
+また、12ピンのコンスルーやピンヘッダでもPCBに取り付けることが可能です。  
+下図の赤丸部分を空けたままにしても動作が可能です。  
+<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_9955b.jpg?raw=true" width="600px" />
+
 電池ホルダーとして[HU1632](https://www.monotaro.com/p/8835/2765/)をPCBに取り付けることが可能です。  
 使用するボタン電池はCR1632となります。  
 <img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_9950.jpg?raw=true" width="600px" />
@@ -310,5 +314,6 @@ miniZoneはBLE Micro Pro用の電源を搭載して、Bluetoothによる無線�
 合計7箇所をハンダ付けします。  
 <img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_9959.jpg?raw=true" width="600px" />
 
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
+下図のようにボタン電池(CR1632)を取り付けて完成です。  
+<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_0445.jpg?raw=true" width="600px" />
 
