@@ -114,17 +114,40 @@ LED1番のみ、[SK6812MINI-E](https://shop.yushakobo.jp/products/sk6812mini-e-1
 はんだ付けができたらPro MicroをUSBでPCなどに取り付けて光るかを確認します。  
 <img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_9889.jpg?raw=true" width="600px" />
 
-LED2番から11番の計10個は[WS2812B](https://shop.yushakobo.jp/products/a0800ws-01-10)を使います。
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
+LED2番から11番の計10個は[WS2812B](https://shop.yushakobo.jp/products/a0800ws-01-10)を使います。  
+<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_9891.jpg?raw=true" width="600px" />
 
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
+こちらも同様に予備ハンダを行った後に、LEDを取り付けます。  
+<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_9893.jpg?raw=true" width="600px" />
+
+全箇所が点灯することを確認します。  
+点灯しない場合は、 `RGB_TOG` キーをキーマップに設定し、キーを押してみてください。  
+<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_0214.jpg?raw=true" width="600px" />
+
+### 6. OLEDピンソケットの取り付け
+
+この工程は後回しにしても構いません。
+
+[OLED](https://shop.yushakobo.jp/products/oled/)や[トラックボールモジュール用レベル変換基板](https://shop.yushakobo.jp/products/a0800tl-01-1)を使用する際には[OLED用ピンソケット](https://shop.yushakobo.jp/products/a1600ps-01-1)を取り付けるとスムーズに付け替えが可能です。  
+
+<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_0226.jpg?raw=true" width="600px" />
+
+取り付け位置は、ProMicroの手前側です。  
+<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_9899.jpg?raw=true" width="600px" />
+
+取り付ける際は、マスキングテープなどで固定するとハンダ付けがスムーズに行えます。  
+<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_0236.jpg?raw=true" width="600px" />
+
+裏側からハンダ付けを行います。  
+<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_9901.jpg?raw=true" width="600px" />
+
+### 7. キースイッチプレートとキースイッチの取り付け
+
+キースイッチプレートから保護紙を剥がします。  
+<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_9839.jpg?raw=true" width="600px" />
+
+
+<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_0217.jpg?raw=true" width="600px" />
 <img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
 <img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
 <img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
