@@ -85,7 +85,7 @@ In addition, a trackball is included, allowing you to perform all operations wit
 |部品|個数|備考|
 |:--|:--|:--|
 |[7mmオプティカルトラックボールモジュール１uタイプ](https://shop.yushakobo.jp/products/adtb7m)|1||
-|[トラックボールモジュール用レベル変換基板](https://shop.yushakobo.jp/products/a0800tl-01-1/)1||
+|[トラックボールモジュール用レベル変換基板](https://shop.yushakobo.jp/products/a0800tl-01-1/)|1||
 |[OLED用ピンソケット](https://shop.yushakobo.jp/products/a1600ps-01-1)|1|ピンヘッダがあれば取り付け自体は可能だが付け替えができなくなるので使用を推奨。|
 
 ### BLE Micro Pro用に電源を搭載する場合
@@ -127,7 +127,7 @@ In addition, a trackball is included, allowing you to perform all operations wit
 もう一箇所もハンダ付けを行います。  
 <img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_9855.jpg?raw=true" width="600px" />
 
-全部で38箇所のハンダ付けを行います。。
+全部で38箇所のハンダ付けを行います。  
 <img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_9859.jpg?raw=true" width="600px" />
 
 ### 3. リセットスイッチの取り付け
@@ -157,6 +157,11 @@ PCBはBLE Micro Proに対応するために13ピンとなっております。(P
 Pro Microをはんだ付けします。  
 miniZoneのPCBはコンスルーに対応しております。  
 <img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_9872.jpg?raw=true" width="600px" />
+
+ファームウェアは[Remapサイト上でインストールする](https://remap-keys.app/catalog/w4Y6eN0uA5mSJ4qyGqcC/firmware)ことも可能です。  
+<img src = "https://user-images.githubusercontent.com/4215759/162598262-265cbee5-1e7b-4f7f-b9ec-6a0220455873.png" width="600px" />
+
+QMKへのプルリクエストは[こちら](https://github.com/qmk/qmk_firmware/pull/16644)にございます。
 
 Pro MicroをPCBに取り付けた後、ファームウェアを書き込んで2.で取り付けたダイオードの動作をチェックします。  
 キースイッチ穴をショートさせて(キースイッチ穴をピンセットなどでつなぐ)キーが入力されるかを確認します。  
