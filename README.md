@@ -28,6 +28,10 @@ CR1632 battery can be attached to the base by using optional parts.
 In addition, a trackball is included, allowing you to perform all operations without taking your hands off the keyboard.  
 (Source code for using the trackball is [here](https://github.com/takashicompany/qmk_firmware/tree/minizone/trackball/keyboards/takashicompany/minizone/keymaps/trackball)).  
 
+## トラックボール搭載時
+https://user-images.githubusercontent.com/4215759/162611440-2bb0ec75-2dbf-48b8-8c0d-54c8666c1aff.mp4
+
+
 ## 部品
 
 ### キットに含まれているもの
@@ -119,6 +123,7 @@ In addition, a trackball is included, allowing you to perform all operations wit
 <img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_9850.jpg?raw=true" width="600px" />
 
 以下の動画のようにダイオードを取り付けます。  
+
 https://user-images.githubusercontent.com/4215759/126895350-43ae4cd4-408b-4ff4-ab5c-2903e0420978.mov
 
 片側にハンダを事前に盛り付けます(予備ハンダ)。  
