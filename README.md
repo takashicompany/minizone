@@ -378,6 +378,20 @@ OLED用のPro Microプレートを取り付けて完成です。
 トラックボール用のファームウェアは[Remap](https://remap-keys.app/catalog/w4Y6eN0uA5mSJ4qyGqcC/firmware)にて配布しております。
 また、トラックボール用のソースコードはQMKへのプルリクエストを送っていないため、実装を確認したい方は[こちら](https://github.com/takashicompany/qmk_firmware/tree/minizone/trackball/keyboards/takashicompany/minizone/keymaps/trackball)を御覧ください。
 
+トラックボールを指定時間(デフォルトは10ミリ秒)の間連続して操作すると、マウス入力レイヤー(デフォルトではレイヤー9)が有効になり、クリックやドラッグ、ホイールスクロールが入力可能になります。  
+<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/trackball_via.png?raw=true" width="600px" />
+
+
+[Remap](https://remap-keys.app/)上で任意の箇所にマウス入力を設定することも可能です。  
+<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/trackball_custom.png?raw=true" width="600px" />
+
+|Code|入力|備考|
+|:--|:--|:--|
+|0x5DA6|クリック1|左クリック|
+|0x5DA7|クリック2|右クリック|
+|0x5DA8|クリック3|デバイスに依存|
+|0x5DA9|マイスホイールモード|押下している間、トラックボールの操作がマイスホイールの入力して扱われる|
+
 ### 16. BLE Microと電池基盤の取り付け
 
 miniZoneはBLE Micro Pro用の電源を搭載して、Bluetoothによる無線接続が可能です。  
