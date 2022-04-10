@@ -28,9 +28,16 @@ CR1632 battery can be attached to the base by using optional parts.
 In addition, a trackball is included, allowing you to perform all operations without taking your hands off the keyboard.  
 (Source code for using the trackball is [here](https://github.com/takashicompany/qmk_firmware/tree/minizone/trackball/keyboards/takashicompany/minizone/keymaps/trackball)).  
 
-## トラックボール搭載時
+## トラックボールでの動作
 https://user-images.githubusercontent.com/4215759/162611440-2bb0ec75-2dbf-48b8-8c0d-54c8666c1aff.mp4
 
+- トラックボールを指定の秒数(デフォルトでは10ミリ秒)動かし続けると、マウス入力レイヤーが有効になる。
+- マウス入力レイヤーが有効の時にYキーを押すと左クリックになる
+- マウス入力レイヤーが有効の時にIキーを押すと右クリックになる
+- マウス入力レイヤーが有効の時にUキーを押した状態でトラックボールを操作するとスクロールとして入力される
+- マウス入力レイヤー状態で指定の秒数(デフォルトでは1秒)の間上述のキーを入力をしない、または上述のキー以外を押下すると、マウス入力レイヤーが解除される
+
+ソースコードは[こちら](https://github.com/takashicompany/qmk_firmware/tree/minizone/trackball/keyboards/takashicompany/minizone/keymaps/trackball/keymap.c)。
 
 ## 部品
 
@@ -75,6 +82,7 @@ https://user-images.githubusercontent.com/4215759/162611440-2bb0ec75-2dbf-48b8-8
 ### お好みで
 |部品|個数|備考|
 |:--|:--|:--|
+|BLE Micro Pro|1|トラックボールの動作は確認済み。OLEDは未確認。|
 |コンスルー|2|BLE Micro Proを使う場合は13ピンのものを使用することもできます。|
 |[LED(SK6812MINI-E)](https://shop.yushakobo.jp/products/sk6812mini-e-10)|1|キーボードの表面をライティングします。|
 |[LED(WS2812B](https://shop.yushakobo.jp/products/a0800ws-01-10)|10|アンダーグロウです。|
@@ -394,7 +402,7 @@ OLED用のPro Microプレートを取り付けて完成です。
 
 ### 16. BLE Microと電池基盤の取り付け
 
-miniZoneはBLE Micro Pro用の電源を搭載して、Bluetoothによる無線接続が可能です。  
+miniZoneはBLE Micro Pro用の電源を搭載して、Bluetoothによる無線接続が可能です。 
 <img src = "https://cdn.shopify.com/s/files/1/0532/0880/9633/products/DSC0005_2048x2048.jpg?raw=true" width="600px" />
 
 また、12ピンのコンスルーやピンヘッダでもPCBに取り付けることが可能です。  
@@ -426,3 +434,6 @@ miniZoneはBLE Micro Pro用の電源を搭載して、Bluetoothによる無線�
 下図のようにボタン電池(CR1632)を取り付けて完成です。  
 <img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_0445.jpg?raw=true" width="600px" />
 
+BLE Micro Pro用のトラックボールの実装は[こちら](https://github.com/takashicompany/bmp_qmk_firmware/tree/minizone/keyboards/takashicompany/minizone/keymaps/default)になります。
+
+上述のソースコードからBLE Micro Pro用のファームウェアをビルドするか、[こちら](https://github.com/takashicompany/minizone/releases/download/v1.0.0/takashicompany_minizone_default.uf2)からダウンロードしたものを[BLE Micro Proに書き込んでください](https://sekigon-gonnoc.github.io/BLE-Micro-Pro/#/build_firmware?id=%e7%94%9f%e6%88%90%e3%81%97%e3%81%9f%e3%83%95%e3%82%a1%e3%83%bc%e3%83%a0%e3%82%a6%e3%82%a7%e3%82%a2%e3%82%92%e6%9b%b8%e3%81%8d%e8%be%bc%e3%82%80)。
