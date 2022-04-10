@@ -72,6 +72,8 @@ In addition, a trackball is included, allowing you to perform all operations wit
 |部品|個数|備考|
 |:--|:--|:--|
 |コンスルー|2||
+|[LED(SK6812MINI-E)](https://shop.yushakobo.jp/products/sk6812mini-e-10)|1|キーボードの表面をライティングします。|
+|[LED(WS2812B](https://shop.yushakobo.jp/products/a0800ws-01-10)|10|アンダーグロウです。|
 
 ### OLEDを搭載する場合
 |部品|個数|備考|
@@ -98,31 +100,34 @@ In addition, a trackball is included, allowing you to perform all operations wit
 
 ### 1. PCBの表と裏を確認する
 
+表  
 <img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_9827.jpg?raw=true" width="600px" />
+
+裏  
 <img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_9829.jpg?raw=true" width="600px" />
 
 ### 2. ダイオードをハンダづけする
 
-ダイオードはこちら。  
-
+ダイオードは表面実装型のものを推奨しております。  
+スルーホール型も取り付けが可能ですが、キースイッチプレートをPCBにタイトに取り付ける必要がありますので、表面のハンダの盛り上がりを極力抑える必要があります。  
 <img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_9853.jpg?raw=true" width="600px" />
 
-表面にハンダが流れないようにマスキングテープで塞ぐ。  
+表面にハンダが流れないようにマスキングテープで塞ぎます。  
 <img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_9838.jpg?raw=true" width="600px" />
 
-ダイオードの取り付け位置を確認。  
+ダイオードの取り付け位置を確認します。  
 <img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_9850.jpg?raw=true" width="600px" />
 
-片側にハンダを盛り付ける(予備ハンダ)。  
+片側にハンダを事前に盛り付けます(予備ハンダ)。  
 <img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_9852.jpg?raw=true" width="600px" />
 
-ピンセットでダイオードを持ちながら予備ハンダを溶かして片側のハンダ付けを行う。  
+ピンセットでダイオードを持ちながら予備ハンダを溶かして片側のハンダ付けを行います。  
 <img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_9854.jpg?raw=true" width="600px" />
 
-もう一方もハンダ付けを行う。  
+もう一箇所もハンダ付けを行います。  
 <img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_9855.jpg?raw=true" width="600px" />
 
-全部で38箇所のハンダ付けを行う。
+全部で38箇所のハンダ付けを行います。。
 <img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_9859.jpg?raw=true" width="600px" />
 
 ### 3. リセットスイッチの取り付け
@@ -130,15 +135,15 @@ In addition, a trackball is included, allowing you to perform all operations wit
 リセットスイッチを取り付けます。  
 <img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_9861.jpg?raw=true" width="600px" />
 
-ダイオードと同じ要領で一部に予備ハンダを置きます。
+ダイオードと同じ要領で一部に予備ハンダを置きます。  
 <img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_9863.jpg?raw=true" width="600px" />
 
-4箇所をハンダ付けします。
+合計4箇所をハンダ付けします。  
 <img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_9877_2.jpg?raw=true" width="600px" />
 
 ### 4. Pro Microを取り付ける
 
-キーボードの頭脳部分としてPro Microを取り付けます。  
+キーボードの入力を処理する部分としてPro Microを取り付けます。  
 <img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_9866.jpg?raw=true" width="600px" />
 
 取り付け位置はPCB中央の奥側、表面です。  
@@ -146,7 +151,7 @@ In addition, a trackball is included, allowing you to perform all operations wit
 
 取り付けの際に、Pro MicroのピンとPCBのピンが合致することを確認してください。  
 PCBはBLE Micro Proに対応するために13ピンとなっております。(Pro Microは12ピン)  
-一番奥側のピンはBLE Micro Pro用になっております。
+一番奥側のピンはBLE Micro Pro用になっております。  
 <img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_9870.jpg?raw=true" width="600px" />
 
 Pro Microをはんだ付けします。  
@@ -236,7 +241,7 @@ PCBを裏返してキースイッチをハンダ付けします。
 Pro Microプレートを取り付ける際に支柱となるスペーサーを取り付けます。  
 <img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_0232.jpg?raw=true" width="600px" />
 
-下図のように4箇所にスペーサーを取り付けます。
+下図のように4箇所にスペーサーを取り付けます。  
 <img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_0236.jpg?raw=true" width="600px" />
 
 取り付けの際は5mmのネジを使用します。  
@@ -270,7 +275,7 @@ Pro Microプレートを取り付ける際に支柱となるスペーサーを�
 <img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_0249.jpg?raw=true" width="600px" />
 
 Pro Micro付近のネジ穴のみ、ボトムプレートから8mmネジを取り付けます。  
-この箇所はスペーサーでネジを固定します。
+この箇所はスペーサーでネジを固定します。  
 <img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_0250.jpg?raw=true" width="600px" />
 
 下図のようにスペーサーを取り付けます。  
@@ -324,7 +329,7 @@ OLED用のPro Microプレートを取り付けて完成です。
 「 6. OLEDピンソケットの取り付け」を事前に行うとスムーズに進められます。  
 <img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_9930.jpg?raw=true" width="600px" />
 
-最終的な取り付けのイメージは以下です。
+最終的な取り付けのイメージは以下になります。  
 <img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_0317.jpg?raw=true" width="600px" />
 
 トラックボールモジュールの配線を上述の図のような取り付けができるように長さを調整します。  
