@@ -1,20 +1,6 @@
 # miniZone
 
-![image](https://github.com/takashicompany/minizone/blob/master/images/qmk.jpg?raw=true)
-
-miniZone is a compact keyboard designed to be carried with a tablet device like iPad mini.
-Its width is the same as that of the iPad mini, so it can be placed in a case together.
-We aimed for high practicality in spite of its small size.
-Of course, it is useful not only for iPad mini but also for other tablet devices and PCs.
-It is 80% the size of a conventional keycap (0.8u = 16mm), but allows you to type with fewer finger movements.
-
-Also, functions such as LED underglow and OLED are implemented.
-With [BLE Micro Pro](https://shop.yushakobo.jp/products/ble-micro-pro?variant=37665571340449), it is also possible to connect via Bluetooth.
-CR1632 battery can be attached to the base by using optional parts.
-In addition, a trackball is included, allowing you to perform all operations without taking your hands off the keyboard.
-(Source code for using the trackball is [here](https://github.com/takashicompany/qmk_firmware/tree/minizone/trackball/keyboards/takashicompany/minizone/keymaps/trackball))
-
----
+<img src = "https://github.com/takashicompany/minizone/blob/master/images/qmk.jpg?raw=true" width="600px" />
 
 miniZoneはiPad miniのようなタブレット端末と一緒に持ち歩くことをコンセプトにしたコンパクトなキーボードです。
 横幅はiPad miniと同じですので、一緒にケースに入れることが可能です。
@@ -28,6 +14,85 @@ miniZoneはiPad miniのようなタブレット端末と一緒に持ち歩くこ
 さらにトラックボールを搭載して、キーボードのから手を離さずにすべてを操作を行うことができます。
 (トラックボールを利用する際のソースコードは[こちら](https://github.com/takashicompany/qmk_firmware/tree/minizone/trackball/keyboards/takashicompany/minizone/keymaps/trackball))
 
+---
+
+miniZone is a compact keyboard designed to be carried with a tablet device like iPad mini.
+Its width is the same as that of the iPad mini, so it can be placed in a case together.
+We aimed for high practicality in spite of its small size.
+Of course, it is useful not only for iPad mini but also for other tablet devices and PCs.
+It is 80% the size of a conventional keycap (0.8u = 16mm), but allows you to type with fewer finger movements.
+
+Also, functions such as LED underglow and OLED are implemented.
+With [BLE Micro Pro](https://shop.yushakobo.jp/products/ble-micro-pro?variant=37665571340449), it is also possible to connect via Bluetooth.
+CR1632 battery can be attached to the base by using optional parts.
+In addition, a trackball is included, allowing you to perform all operations without taking your hands off the keyboard.
+(Source code for using the trackball is [here](https://github.com/takashicompany/qmk_firmware/tree/minizone/trackball/keyboards/takashicompany/minizone/keymaps/trackball))
+
+## 部品
+
+### キットに含まれているもの
+|部品|個数|備考|
+|:--|:--|:--|
+|PCB|1||
+|スイッチプレート|1||
+|側面プレート|1||
+|ボトムプレート|1||
+|Pro Microプレート|1||
+|OLED Pro Microプレート|1||
+|トラックボール Pro Microプレート|1||
+|[ダイオード(表面実装型)](https://shop.yushakobo.jp/collections/all-keyboard-parts/products/a0800di-02-100)|38||
+|[タクトスイッチ](https://akizukidenshi.com/catalog/g/gP-08081/)|1||
+|M2ネジ 8mm|12||
+|M2ネジ 5mm|10||
+|M2スペーサー 7mm|6||
+|M2ナット|10||
+
+### ご自身で用意頂くもの
+|部品|個数|備考|
+|:--|:--|:--|
+|[Kailh Choc v1キースイッチ](https://shop.yushakobo.jp/collections/all-switches/products/pg1350)|38||
+|0.8uキーキャップ(16mm)|38|詳細は後述|
+|Pro Micro|1|BLE Micro Proにも対応済み|
+
+#### キーキャップ
+キーキャップは0.8uサイズ(16mm)をご利用ください。
+
+[こちらの記事](https://e3w2q.github.io/10/)を参考にするとより良いかと思います。
+
+以下は動作確認済みのキーキャップです。
+
+[Choc 向け 挟ピッチ16mm 薄型キーキャップ（50個）  
+<img src = "https://img.make.dmm.com/images/item/1273303/main_angled_R_20210609122258214_l.jpg" width="400px" />](https://make.dmm.com/item/1273303/)
+
+[YKNキーキャップセット(Chocスイッチ 16x16mmキーピッチ用) v1.2  
+<img src = "https://img.make.dmm.com/images/item/1280053/16x16choc2_20210221120518672_l.jpg" width="400px" />](https://make.dmm.com/item/1280053/)
+
+
+### お好みで
+|部品|個数|備考|
+|:--|:--|:--|
+|コンスルー|2||
+
+### OLEDを搭載する場合
+|部品|個数|備考|
+|:--|:--|:--|
+|[OLEDモジュール](https://shop.yushakobo.jp/collections/all-keyboard-parts/products/oled)|1||
+|[OLED用ピンソケット](https://shop.yushakobo.jp/products/a1600ps-01-1)|1|ピンヘッダがあれば取り付け自体は可能だが付け替えができなくなるので使用を推奨。|
+
+### トラックボールモジュールを搭載する場合
+|部品|個数|備考|
+|:--|:--|:--|
+|[7mmオプティカルトラックボールモジュール１uタイプ](https://shop.yushakobo.jp/products/adtb7m)|1||
+|[トラックボールモジュール用レベル変換基板](https://shop.yushakobo.jp/products/a0800tl-01-1/)1||
+|[OLED用ピンソケット](https://shop.yushakobo.jp/products/a1600ps-01-1)|1|ピンヘッダがあれば取り付け自体は可能だが付け替えができなくなるので使用を推奨。|
+
+### BLE Micro Pro用に電源を搭載する場合
+|部品|個数|備考|
+|:--|:--|:--|
+|[HU1632](https://www.monotaro.com/p/8835/2765/)|1||
+|[チップ積層セラミックコンデンサー](https://akizukidenshi.com/catalog/g/gP-02151/)|1||
+|[電源スイッチ(MK12C02)](https://ja.aliexpress.com/item/32798526843.html)|1||
+|ボタン電池(CR1632)|1||
 
 ## 組み立て方
 
@@ -288,6 +353,10 @@ OLED用のPro Microプレートを取り付けて完成です。
 miniZoneはBLE Micro Pro用の電源を搭載して、Bluetoothによる無線接続が可能です。  
 <img src = "https://cdn.shopify.com/s/files/1/0532/0880/9633/products/DSC0005_2048x2048.jpg?raw=true" width="600px" />
 
+また、12ピンのコンスルーやピンヘッダでもPCBに取り付けることが可能です。  
+下図の赤丸部分を空けたままにしても動作が可能です。  
+<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_9955b.jpg?raw=true" width="600px" />
+
 電池ホルダーとして[HU1632](https://www.monotaro.com/p/8835/2765/)をPCBに取り付けることが可能です。  
 使用するボタン電池はCR1632となります。  
 <img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_9950.jpg?raw=true" width="600px" />
@@ -298,12 +367,18 @@ miniZoneはBLE Micro Pro用の電源を搭載して、Bluetoothによる無線�
 以下の箇所をハンダ付けします。  
 <img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_9954b.jpg?raw=true" width="600px" />
 
-[チップ積層セラミックコンデンサー](https://akizukidenshi.com/catalog/g/gP-02151/)をPCBに取り付けます。
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
+[チップ積層セラミックコンデンサー](https://akizukidenshi.com/catalog/g/gP-02151/)をPCBに取り付けます。  
+<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_9876.jpg?raw=true" width="600px" />
 
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
+予備ハンダをしてコンデンサーをハンダ付けします。向きは特にありません。
+<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_9880.jpg?raw=true" width="600px" />
 
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
+電源の[スイッチ(MK12C02)](https://ja.aliexpress.com/item/32798526843.html)を取り付けます。  
+<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_9957.jpg?raw=true" width="600px" />
 
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_.jpg?raw=true" width="600px" />
+合計7箇所をハンダ付けします。  
+<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_9959.jpg?raw=true" width="600px" />
+
+下図のようにボタン電池(CR1632)を取り付けて完成です。  
+<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_0445.jpg?raw=true" width="600px" />
 
