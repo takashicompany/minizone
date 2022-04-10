@@ -118,6 +118,9 @@ In addition, a trackball is included, allowing you to perform all operations wit
 ダイオードの取り付け位置を確認します。  
 <img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_9850.jpg?raw=true" width="600px" />
 
+以下の動画のようにダイオードを取り付けます。  
+https://user-images.githubusercontent.com/4215759/126895350-43ae4cd4-408b-4ff4-ab5c-2903e0420978.mov
+
 片側にハンダを事前に盛り付けます(予備ハンダ)。  
 <img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_9852.jpg?raw=true" width="600px" />
 
@@ -310,6 +313,15 @@ Pro Microプレートをスペーサーに取り付けます。
 
 ### 13. 完成したら...
 
+完成しましたら、ぜひSNSなどに写真を投稿頂ければと思います。
+Twitterのハッシュタグは [`#miniZone #自作キーボード`](https://twitter.com/search?q=%23%E8%87%AA%E4%BD%9C%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%20%23miniZone&src=typed_query) を付けていただけると幸いです。
+キットを組み立てた感想や、キーボードを使った所感などをお待ちしております！
+
+また、毎週日曜日の１9時より実施されている[#KEEP_PD](https://twitter.com/hashtag/KEEB_PD?f=live)に投稿頂くこともオススメです。  
+開催の告知は[@KEEB_PD](https://twitter.com/KEEB_PD)にて行われております。
+
+ご不明な点などございましたら、[@takashicompany](https://twitter.com/takashicompany)にメンションやDM頂ければ回答できるかと思います。
+
 ### 14. オプション : OLEDの取り付け
 
 miniZoneはOLEDを取り付けることが可能です。  
@@ -357,6 +369,9 @@ OLED用のPro Microプレートを取り付けて完成です。
 
 トラックボールモジュール用のPro Microプレートを取り付けます。  
 <img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_0319.jpg?raw=true" width="600px" />
+
+トラックボール用のファームウェアは[Remap](https://remap-keys.app/catalog/w4Y6eN0uA5mSJ4qyGqcC/firmware)にて配布しております。
+また、トラックボール用のソースコードはQMKへのプルリクエストを送っていないため、実装を確認したい方は[こちら](https://github.com/takashicompany/qmk_firmware/tree/minizone/trackball/keyboards/takashicompany/minizone/keymaps/trackball)を御覧ください。
 
 ### 16. BLE Microと電池基盤の取り付け
 
