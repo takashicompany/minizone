@@ -53,10 +53,12 @@ https://user-images.githubusercontent.com/4215759/162611440-2bb0ec75-2dbf-48b8-8
 |トラックボール Pro Microプレート|1||
 |[ダイオード(表面実装型)](https://shop.yushakobo.jp/collections/all-keyboard-parts/products/a0800di-02-100)|38||
 |[タクトスイッチ](https://akizukidenshi.com/catalog/g/gP-08081/)|1||
+|ゴム足シール|8||
 |M2ネジ 8mm|12||
 |M2ネジ 5mm|10||
 |M2スペーサー 7mm|6||
 |M2ナット|10||
+
 
 ### ご自身で用意頂くもの
 |部品|個数|備考|
