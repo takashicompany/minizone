@@ -470,7 +470,7 @@ Rev5以降のPCBで取り付けが可能です。
 トラックボールモジュールを取り付けます。  
 <img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_0556.jpg?raw=true" width="600px" />
 
-Pro Microプレートを取り付けます。
+Pro Microプレートを取り付けます。  
 <img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_0554.jpg?raw=true" width="600px" />
 
 ファームウェアのビルドに関しては[こちらのページ](https://github.com/qmk/qmk_firmware/blob/master/docs/feature_pointing_device.md#pimoroni-trackball)を参考に進めてください。
