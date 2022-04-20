@@ -113,7 +113,7 @@ https://user-images.githubusercontent.com/4215759/162611440-2bb0ec75-2dbf-48b8-8
 ### Pimoroni Trackballモジュール(PIM447)を搭載する場合
 
 Rev5以降で搭載が可能です。  
-[7mmオプティカルトラックボールモジュール１uタイプ](https://shop.yushakobo.jp/products/adtb7m)とは使用感が異なりますので、留意ください。
+**[7mmオプティカルトラックボールモジュール１uタイプ](https://shop.yushakobo.jp/products/adtb7m)とは使用感が異なりますので、留意ください。**
 
 |部品|個数|備考|
 |:--|:--|:--|
@@ -452,6 +452,7 @@ BLE Micro Pro用のトラックボールの実装は[こちら](https://github.c
 
 ### 17. Pimoroni Trackballモジュール(PIM447)の取り付け
 Rev5以降のPCBで取り付けが可能です。  
+**[7mmオプティカルトラックボールモジュール１uタイプ](https://shop.yushakobo.jp/products/adtb7m)とは使用感が異なりますので、留意ください。**
 
 [PIM447](https://www.marutsu.co.jp/pc/i/32844496/)を用います。  
 <img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_0500.jpg?raw=true" width="600px" />
@@ -472,3 +473,4 @@ Rev5以降のPCBで取り付けが可能です。
 Pro Microプレートを取り付けます。
 <img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_0554.jpg?raw=true" width="600px" />
 
+ファームウェアのビルドに関しては[こちらのページ](https://github.com/qmk/qmk_firmware/blob/master/docs/feature_pointing_device.md#pimoroni-trackball)を参考に進めてください。
