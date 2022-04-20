@@ -1,4 +1,4 @@
-# miniZone
+m,<<<<<<# miniZone
 
 <img src = "https://github.com/takashicompany/minizone/blob/master/images/qmk.jpg?raw=true" width="600px" />
 
@@ -112,11 +112,12 @@ https://user-images.githubusercontent.com/4215759/162611440-2bb0ec75-2dbf-48b8-8
 
 ### Pimoroni Trackballモジュール(PIM447)を搭載する場合
 
-Rev5以降で搭載が可能です。
+Rev5以降で搭載が可能です。  
+[7mmオプティカルトラックボールモジュール１uタイプ](https://shop.yushakobo.jp/products/adtb7m)とは使用感が異なりますので、留意ください。
 
 |部品|個数|備考|
 |:--|:--|:--|
-|[PIM447](https://www.marutsu.co.jp/pc/i/32844496/)|1||
+|[PIM447](https://www.marutsu.co.jp/pc/i/32844496/)|1|BLE Micro Proには非対応|
 |[5ピンソケット](https://www.hirosugi-net.co.jp/shop/g/g24082/)|1||
 
 ## 組み立て方
@@ -450,12 +451,24 @@ BLE Micro Pro用のトラックボールの実装は[こちら](https://github.c
 上述のソースコードからBLE Micro Pro用のファームウェアをビルドするか、[こちら](https://github.com/takashicompany/minizone/releases/download/v1.0.0/takashicompany_minizone_default.uf2)からダウンロードしたものを[BLE Micro Proに書き込んでください](https://sekigon-gonnoc.github.io/BLE-Micro-Pro/#/build_firmware?id=%e7%94%9f%e6%88%90%e3%81%97%e3%81%9f%e3%83%95%e3%82%a1%e3%83%bc%e3%83%a0%e3%82%a6%e3%82%a7%e3%82%a2%e3%82%92%e6%9b%b8%e3%81%8d%e8%be%bc%e3%82%80)。
 
 ### 17. Pimoroni Trackballモジュール(PIM447)の取り付け
+Rev5以降のPCBで取り付けが可能です。  
 
+[PIM447](https://www.marutsu.co.jp/pc/i/32844496/)を用います。  
 <img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_0500.jpg?raw=true" width="600px" />
 
+トラックボールモジュールにピンをハンダ付けします。  
 <img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_0502.jpg?raw=true" width="600px" />
 
+5ピンソケットをハンダ付けします。  
 <img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_0553.jpg?raw=true" width="600px" />
 
+トラックボールモジュールとスペーサーが干渉するので、必要応じてトラックボールモジュールの端を切り落とします。  
+この時トラックボールモジュールの回路を傷つけないように気をつけてください。  
 <img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_0551.jpg?raw=true" width="600px" />
+
+トラックボールモジュールを取り付けます。  
+<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_0556.jpg?raw=true" width="600px" />
+
+Pro Microプレートを取り付けます。
+<img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_0554.jpg?raw=true" width="600px" />
 
