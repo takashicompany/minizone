@@ -1,4 +1,4 @@
-m,<<<<<<# miniZone
+# miniZone
 
 <img src = "https://github.com/takashicompany/minizone/blob/master/images/qmk.jpg?raw=true" width="600px" />
 
