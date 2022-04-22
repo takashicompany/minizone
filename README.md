@@ -95,20 +95,12 @@ https://user-images.githubusercontent.com/4215759/162611440-2bb0ec75-2dbf-48b8-8
 |[OLEDモジュール](https://shop.yushakobo.jp/collections/all-keyboard-parts/products/oled)|1||
 |[OLED用ピンソケット](https://shop.yushakobo.jp/products/a1600ps-01-1)|1|ピンヘッダがあれば取り付け自体は可能だが付け替えができなくなるので使用を推奨。|
 
-### トラックボールモジュールを搭載する場合
+### 7mmオプティカルトラックボールモジュールを搭載する場合
 |部品|個数|備考|
 |:--|:--|:--|
 |[7mmオプティカルトラックボールモジュール１uタイプ](https://shop.yushakobo.jp/products/adtb7m)|1||
 |[トラックボールモジュール用レベル変換基板](https://shop.yushakobo.jp/products/a0800tl-01-1/)|1||
 |[OLED用ピンソケット](https://shop.yushakobo.jp/products/a1600ps-01-1)|1|ピンヘッダがあれば取り付け自体は可能だが付け替えができなくなるので使用を推奨。|
-
-### BLE Micro Pro用に電源を搭載する場合
-|部品|個数|備考|
-|:--|:--|:--|
-|[HU1632](https://www.monotaro.com/p/8835/2765/)|1||
-|[チップ積層セラミックコンデンサー](https://akizukidenshi.com/catalog/g/gP-02151/)|1||
-|[電源スイッチ(MK12C02)](https://ja.aliexpress.com/item/32798526843.html)|1||
-|ボタン電池(CR1632)|1||
 
 ### Pimoroni Trackballモジュール(PIM447)を搭載する場合
 
@@ -119,6 +111,15 @@ Rev5以降で搭載が可能です。
 |:--|:--|:--|
 |[PIM447](https://www.marutsu.co.jp/pc/i/32844496/)|1|BLE Micro Proには非対応|
 |[5ピンソケット](https://www.hirosugi-net.co.jp/shop/g/g24082/)|1||
+
+### BLE Micro Pro用に電源を搭載する場合
+|部品|個数|備考|
+|:--|:--|:--|
+|[HU1632](https://www.monotaro.com/p/8835/2765/)|1||
+|[チップ積層セラミックコンデンサー](https://akizukidenshi.com/catalog/g/gP-02151/)|1||
+|[電源スイッチ(MK12C02)](https://ja.aliexpress.com/item/32798526843.html)|1||
+|ボタン電池(CR1632)|1||
+
 
 ## 組み立て方
 
