@@ -84,7 +84,7 @@ https://user-images.githubusercontent.com/4215759/162611440-2bb0ec75-2dbf-48b8-8
 ### お好みで
 |部品|個数|備考|
 |:--|:--|:--|
-|BLE Micro Pro|1|トラックボールの動作は確認済み。OLEDは未確認。|
+|BLE Micro Pro|1|トラックボールの動作は確認済み(有線のみ)。OLEDは未確認。|
 |コンスルー|2|BLE Micro Proを使う場合は13ピンのものを使用することもできます。|
 |[LED(SK6812MINI-E)](https://shop.yushakobo.jp/products/sk6812mini-e-10)|1|キーボードの表面をライティングします。|
 |[LED(WS2812B](https://shop.yushakobo.jp/products/a0800ws-01-10)|10|アンダーグロウです。|
@@ -474,3 +474,8 @@ Pro Microプレートを取り付けます。
 <img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_0554.jpg?raw=true" width="600px" />
 
 ファームウェアのビルドに関しては[こちらのページ](https://github.com/qmk/qmk_firmware/blob/master/docs/feature_pointing_device.md#pimoroni-trackball)を参考に進めてください。
+
+サンプルコードは[こちら](https://github.com/takashicompany/qmk_firmware/tree/minizone/pimoroni_trackball/keyboards/takashicompany/minizone/keymaps/pimoroni_trackball)になります。  
+
+[Remapにてファームウェア](https://remap-keys.app/catalog/w4Y6eN0uA5mSJ4qyGqcC/firmware)も公開しております。  
+<img src = "https://user-images.githubusercontent.com/4215759/164753680-a6539299-b75d-490c-adc5-8f762236ec14.png" width="600px" />
