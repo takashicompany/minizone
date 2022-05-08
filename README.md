@@ -447,9 +447,13 @@ miniZoneはBLE Micro Pro用の電源を搭載して、Bluetoothによる無線�
 下図のようにボタン電池(CR1632)を取り付けて完成です。  
 <img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_0445.jpg?raw=true" width="600px" />
 
-BLE Micro Pro用のトラックボールの実装は[こちら](https://github.com/takashicompany/bmp_qmk_firmware/tree/minizone/keyboards/takashicompany/minizone/keymaps/default)になります。
+BLE Micro Pro用のトラックボールの実装は[こちら](https://github.com/takashicompany/bmp_qmk_firmware/tree/minizone/keyboards/takashicompany/minizone/keymaps/default)になります。  
+(トラックボールを使用しない場合はBLE Micro Pro標準のファームウェアでも動作します。). 
+**トラックボールを使用する際はUSBでの接続か、モバイルバッテリーなどでBLE Micro Proに電源を別途供給する必要があります。**  
 
 上述のソースコードからBLE Micro Pro用のファームウェアをビルドするか、[こちら](https://github.com/takashicompany/minizone/releases/download/v1.0.0/takashicompany_minizone_default.uf2)からダウンロードしたものを[BLE Micro Proに書き込んでください](https://sekigon-gonnoc.github.io/BLE-Micro-Pro/#/build_firmware?id=%e7%94%9f%e6%88%90%e3%81%97%e3%81%9f%e3%83%95%e3%82%a1%e3%83%bc%e3%83%a0%e3%82%a6%e3%82%a7%e3%82%a2%e3%82%92%e6%9b%b8%e3%81%8d%e8%be%bc%e3%82%80)。
+
+BLE Micro Proの取り扱いは[こちら](https://sekigon-gonnoc.github.io/BLE-Micro-Pro/#/getting_started)を参考に進めてください。
 
 ### 17. Pimoroni Trackballモジュール(PIM447)の取り付け
 Rev5以降のPCBで取り付けが可能です。  
