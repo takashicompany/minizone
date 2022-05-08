@@ -454,6 +454,7 @@ BLE Micro Pro用のトラックボールの実装は[こちら](https://github.c
 上述のソースコードからBLE Micro Pro用のファームウェアをビルドするか、[こちら](https://github.com/takashicompany/minizone/releases/download/v1.0.0/takashicompany_minizone_default.uf2)からダウンロードしたものを[BLE Micro Proに書き込んでください](https://sekigon-gonnoc.github.io/BLE-Micro-Pro/#/build_firmware?id=%e7%94%9f%e6%88%90%e3%81%97%e3%81%9f%e3%83%95%e3%82%a1%e3%83%bc%e3%83%a0%e3%82%a6%e3%82%a7%e3%82%a2%e3%82%92%e6%9b%b8%e3%81%8d%e8%be%bc%e3%82%80)。
 
 BLE Micro Proの取り扱いは[こちら](https://sekigon-gonnoc.github.io/BLE-Micro-Pro/#/getting_started)を参考に進めてください。
+キーマップや設定ファイルのサンプルは[こちら](https://github.com/takashicompany/BLE-Micro-Pro/tree/minizone/bmp/AboutDefaultFirmware/keyboards/takashicompany/minizone)です。
 
 ### 17. Pimoroni Trackballモジュール(PIM447)の取り付け
 Rev5以降のPCBで取り付けが可能です。  
