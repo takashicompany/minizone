@@ -101,6 +101,7 @@ https://user-images.githubusercontent.com/4215759/162611440-2bb0ec75-2dbf-48b8-8
 |[7mmオプティカルトラックボールモジュール１uタイプ](https://shop.yushakobo.jp/products/adtb7m)|1||
 |[トラックボールモジュール用レベル変換基板](https://shop.yushakobo.jp/products/a0800tl-01-1/)|1||
 |[OLED用ピンソケット](https://shop.yushakobo.jp/products/a1600ps-01-1)|1|ピンヘッダがあれば取り付け自体は可能だが付け替えができなくなるので使用を推奨。|
+|[ピンヘッダ](https://shop.yushakobo.jp/products/a1600ph-01-1)|1|Pro Microに付属しているピンヘッダを切って利用してもOK。|
 
 ### Pimoroni Trackballモジュール(PIM447)を搭載する場合
 
@@ -370,6 +371,7 @@ OLED用のPro Microプレートを取り付けて完成です。
 
 取り付けの際は[トラックボールモジュール用レベル変換基板](https://shop.yushakobo.jp/products/a0800tl-01-1)を用います。  
 「 6. OLEDピンソケットの取り付け」を事前に行うとスムーズに進められます。  
+左のピンヘッダは[こちら](https://shop.yushakobo.jp/products/a1600ph-01-1)で購入するか、Pro Microに付属しているものを切って使うと良いかと思います。   
 <img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_9930.jpg?raw=true" width="600px" />
 
 最終的な取り付けのイメージは以下になります。  
@@ -387,7 +389,7 @@ OLED用のPro Microプレートを取り付けて完成です。
 下図のように導線を折り込むようにハンダ付けをすると外れづらくなります。  
 <img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_9939.jpg?raw=true" width="600px" />
 
-表面は下図のようになるようにトラックボールモジュールをハンダ付けし、またピンヘッダを変換基盤にハンダ付けで固定します。
+表面は下図のようになるようにトラックボールモジュールをハンダ付けし、またピンヘッダを変換基盤にハンダ付けで固定します。  
 <img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_9940.jpg?raw=true" width="600px" />
 
 トラックボールモジュールの導線が折れないように、トラックボールモジュールをPro Micro上に配置します。  
