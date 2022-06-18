@@ -401,7 +401,7 @@ OLED用のPro Microプレートを取り付けて完成です。
 トラックボール用のファームウェアは[Remap](https://remap-keys.app/catalog/w4Y6eN0uA5mSJ4qyGqcC/firmware)にて配布しております。
 また、トラックボール用のソースコードはQMKへのプルリクエストを送っていないため、実装を確認したい方は[こちら](https://github.com/takashicompany/qmk_firmware/tree/minizone/trackball/keyboards/takashicompany/minizone/keymaps/trackball)を御覧ください。
 
-トラックボールを指定時間(デフォルトは10ミリ秒)の間連続して操作すると、マウス入力レイヤー(デフォルトではレイヤー9)が有効になり、クリックやドラッグ、ホイールスクロールが入力可能になります。  
+トラックボールを指定時間(デフォルトは10ミリ秒)の間連続して操作すると、マウス入力レイヤー(デフォルトではレイヤー9)が有効になり、クリックやドラッグ、ホイールスクロールが入力可能になります。
 <img src = "https://github.com/takashicompany/minizone/blob/master/images/build/trackball_via.png?raw=true" width="600px" />
 
 
