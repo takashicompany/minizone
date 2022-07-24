@@ -39,6 +39,8 @@ https://user-images.githubusercontent.com/4215759/162611440-2bb0ec75-2dbf-48b8-8
 
 ソースコードは[こちら](https://github.com/takashicompany/qmk_firmware/tree/minizone/trackball/keyboards/takashicompany/minizone/keymaps/trackball/keymap.c)。
 
+基本的に、トラックボールは有線接続時にのみ使用可能です。
+
 ## 部品
 
 ### キットに含まれているもの
