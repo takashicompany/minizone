@@ -477,7 +477,9 @@ Rev5以降のPCBで取り付けが可能です。
 この時トラックボールモジュールの回路を傷つけないように気をつけてください。  
 <img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_0551.jpg?raw=true" width="600px" />
 
-トラックボールモジュールを取り付けます。  
+トラックボールモジュールを5ピンソケットに取り付けます。  
+このとき適当な長さにピンの足を切ると安定感が増すかと思います。  
+また、トラックボールモジュールが安定しない場合は、電池基盤やマスキングテープなどを使ってトラックボールモジュールの下に置くと安定します。  
 <img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_0556.jpg?raw=true" width="600px" />
 
 Pro Microプレートを取り付けます。  
