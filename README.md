@@ -39,7 +39,14 @@ https://user-images.githubusercontent.com/4215759/162611440-2bb0ec75-2dbf-48b8-8
 
 ソースコードは[こちら](https://github.com/takashicompany/qmk_firmware/tree/minizone/trackball/keyboards/takashicompany/minizone/keymaps/trackball/keymap.c)。
 
-基本的に、トラックボールは有線接続時にのみ使用可能です。
+### MCUとトラックボールモジュールの機能対応表
+
+|トラックボールモジュール|Pro Micro|BLE Micro Pro|
+|:--|:--|:--|
+|[7mmオプティカル１uタイプ](https://shop.yushakobo.jp/products/adtb7m)|マウス入力レイヤー対応|マウス入力レイヤー対応|
+|[PIM447](https://www.marutsu.co.jp/pc/i/32844496/)|トラックボールのクリック/マウス入力レイヤー対応|トラックボールのクリックのみ|
+
+**※トラックボールは有線接続時にのみ使用可能です。**
 
 ## 部品
 
@@ -491,3 +498,7 @@ Pro Microプレートを取り付けます。
 
 [Remapにてファームウェア](https://remap-keys.app/catalog/w4Y6eN0uA5mSJ4qyGqcC/firmware)も公開しております。  
 <img src = "https://user-images.githubusercontent.com/4215759/164753680-a6539299-b75d-490c-adc5-8f762236ec14.png" width="600px" />
+
+BLE Micro Proのファームウェアは[こちら](https://github.com/takashicompany/bmp_qmk_firmware/releases/download/minizone-pimoroni_trackball-v0.1.0/takashicompany_minizone_pimoroni_trackball.uf2)です。  
+現在はトラックボールのクリックのみ対応しております。  
+ソースコードは[こちら](https://github.com/takashicompany/bmp_qmk_firmware/tree/minizone-pimoroni_trackball-v0.1.0/keyboards/takashicompany/minizone/keymaps/pimoroni_trackball)にあります。
