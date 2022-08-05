@@ -499,6 +499,16 @@ Pro Microプレートを取り付けます。
 [Remapにてファームウェア](https://remap-keys.app/catalog/w4Y6eN0uA5mSJ4qyGqcC/firmware)も公開しております。  
 <img src = "https://user-images.githubusercontent.com/4215759/164753680-a6539299-b75d-490c-adc5-8f762236ec14.png" width="600px" />
 
+キーマップのCUSTOM欄にCode(16進数)を入力することでマウス入力となるキーを好きな箇所に配置することができます。  
+<img src = "https://user-images.githubusercontent.com/4215759/183118512-15b3bd70-4f59-4557-ac8f-7a5e4d87edcc.png" width="600px" />
+
+|Code|入力|備考|
+|:--|:--|:--|
+|0x5DAD|クリック1|左クリック|
+|0x5DAE|クリック2|右クリック|
+|0x5DAD|クリック3|デバイスに依存|
+|0x5DB0|マイスホイールモード|押下している間、トラックボールの操作がマイスホイールの入力して扱われる|
+
 BLE Micro Proのファームウェアは[こちら](https://github.com/takashicompany/bmp_qmk_firmware/releases/download/minizone-pimoroni_trackball-v0.1.0/takashicompany_minizone_pimoroni_trackball.uf2)です。  
 現在はトラックボールのクリックのみ対応しております。  
 ソースコードは[こちら](https://github.com/takashicompany/bmp_qmk_firmware/tree/minizone-pimoroni_trackball-v0.1.0/keyboards/takashicompany/minizone/keymaps/pimoroni_trackball)にあります。
