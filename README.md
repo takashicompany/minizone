@@ -508,6 +508,10 @@ Pro Microプレートを取り付けます。
 |0x5DAE|クリック2|右クリック|
 |0x5DAD|クリック3|デバイスに依存|
 |0x5DB0|マイスホイールモード|押下している間、トラックボールの操作がマイスホイールの入力して扱われる|
+|0x5DB1|カーソル移動係数増加|デバイスに設定が保存される|
+|0x5DB2|カーソル移動係数減少|デバイスに設定が保存される|
+
+接続しているPCやタブレットのOS側のカーソルの移動速度設定と組み合わせることで、滑らかな移動が実現しやすくなるかと思います。
 
 BLE Micro Proのファームウェアは[こちら](https://github.com/takashicompany/bmp_qmk_firmware/releases/download/minizone-pimoroni_trackball-v0.1.0/takashicompany_minizone_pimoroni_trackball.uf2)です。  
 現在はトラックボールのクリックのみ対応しております。  
