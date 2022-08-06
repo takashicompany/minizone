@@ -518,6 +518,9 @@ Pro Microプレートを取り付けます。
 
 カーソルの移動係数や移動タイプの切り替えは、接続しているPCやタブレットのOS側のカーソルの移動速度設定と組み合わせることで、滑らかな移動が実現しやすくなるかと思います。
 
+---
+
 BLE Micro Proのファームウェアは[こちら](https://github.com/takashicompany/bmp_qmk_firmware/releases/download/minizone-pimoroni_trackball-v0.1.0/takashicompany_minizone_pimoroni_trackball.uf2)です。  
 現在はトラックボールのクリックのみ対応しております。  
+**カーソル移動係数や移動タイプの切り替えは実装されておりません。**  
 ソースコードは[こちら](https://github.com/takashicompany/bmp_qmk_firmware/tree/minizone-pimoroni_trackball-v0.1.0/keyboards/takashicompany/minizone/keymaps/pimoroni_trackball)にあります。
