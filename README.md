@@ -482,7 +482,7 @@ Rev5以降のPCBで取り付けが可能です。
 <img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_0502.jpg?raw=true" width="600px" />
 
 5ピンソケットをハンダ付けします。  
-PIM447は個体差があるようですので、先にファームウェアを書き込んでポインターの挙動が不安定でないかを確認しておくと安心かと思います。
+PIM447は個体差があるようですので、先にファームウェアを書き込んでポインターの挙動が不安定でないかを確認しておくと安心かと思います。  
 <img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_0553.jpg?raw=true" width="600px" />
 
 トラックボールモジュールとスペーサーが干渉するので、必要応じてトラックボールモジュールの端を切り落とします。  
