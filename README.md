@@ -1,6 +1,6 @@
 # miniZone
 
-<img src = "https://github.com/takashicompany/minizone/blob/master/images/qmk.jpg?raw=true" width="600px" />
+<img src = "https://github.com/takashicompany/minizone/blob/master/images/daihuku/DSC02839.jpg?raw=true" width="600px" />
 
 miniZoneはiPad miniのようなタブレット端末と一緒に持ち歩くことをコンセプトにしたコンパクトなキーボードです。  
 横幅はiPad miniと同じですので、一緒にケースに入れることが可能です。  
