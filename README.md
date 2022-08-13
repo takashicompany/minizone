@@ -123,7 +123,7 @@ Rev5以降で搭載が可能です。
 
 |部品|個数|備考|
 |:--|:--|:--|
-|[PIM447](https://www.marutsu.co.jp/pc/i/32844496/)|1|BLE Micro Proには非対応|
+|[PIM447](https://www.marutsu.co.jp/pc/i/32844496/)|1|**個体差があるようですので、組立前に動作を確認しておくと良いです。**|
 |[5ピンソケット](https://www.hirosugi-net.co.jp/shop/g/g24082/)|1||
 
 ### BLE Micro Pro用に電源を搭載する場合
@@ -482,6 +482,7 @@ Rev5以降のPCBで取り付けが可能です。
 <img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_0502.jpg?raw=true" width="600px" />
 
 5ピンソケットをハンダ付けします。  
+PIM447は個体差があるようですので、先にファームウェアを書き込んでポインターの挙動が不安定でないかを確認しておくと安心かと思います。
 <img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_0553.jpg?raw=true" width="600px" />
 
 トラックボールモジュールとスペーサーが干渉するので、必要応じてトラックボールモジュールの端を切り落とします。  
