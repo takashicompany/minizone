@@ -33,6 +33,10 @@ In addition, a trackball is included, allowing you to perform all operations wit
 (Source code for using the trackball is [here](https://github.com/takashicompany/qmk_firmware/tree/minizone/trackball/keyboards/takashicompany/minizone/keymaps/trackball)).  
 
 ## トラックボールでの動作
+
+**2022年9月現在、市場で流通しているPimoroni Trackball(PIM447)の動作が安定していないため、取り付けは推奨致しません。
+基盤やケースは実装に対応しておりますが、取り付ける際は自己責任でお願いします。**
+
 https://user-images.githubusercontent.com/4215759/162611440-2bb0ec75-2dbf-48b8-8c0d-54c8666c1aff.mp4
 
 - トラックボールを指定の秒数(デフォルトでは10ミリ秒)動かし続けると、マウス入力レイヤーが有効になる。
