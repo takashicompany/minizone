@@ -123,6 +123,9 @@ https://user-images.githubusercontent.com/4215759/162611440-2bb0ec75-2dbf-48b8-8
 
 ### Pimoroni Trackballモジュール(PIM447)を搭載する場合
 
+**2022年9月現在、市場で流通しているPimoroni Trackball(PIM447)の動作が安定していないため、取り付けは推奨致しません。
+基盤やケースは実装に対応しておりますが、取り付ける際は自己責任でお願いします。**
+
 Rev5以降で搭載が可能です。  
 **[7mmオプティカルトラックボールモジュール１uタイプ](https://shop.yushakobo.jp/products/adtb7m)とは使用感が異なりますので、留意ください。**
 
@@ -477,6 +480,10 @@ BLE Micro Proの取り扱いは[こちら](https://sekigon-gonnoc.github.io/BLE-
 キーマップや設定ファイルのサンプルは[こちら](https://github.com/takashicompany/BLE-Micro-Pro/tree/minizone/bmp/AboutDefaultFirmware/keyboards/takashicompany/minizone)です。
 
 ### 17. Pimoroni Trackballモジュール(PIM447)の取り付け
+
+**2022年9月現在、市場で流通しているPimoroni Trackball(PIM447)の動作が安定していないため、取り付けは推奨致しません。
+基盤やケースは実装に対応しておりますが、取り付ける際は自己責任でお願いします。**
+
 Rev5以降のPCBで取り付けが可能です。  
 **[7mmオプティカルトラックボールモジュール１uタイプ](https://shop.yushakobo.jp/products/adtb7m)とは使用感が異なりますので、留意ください。**
 
