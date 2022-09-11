@@ -14,6 +14,10 @@ miniZoneはiPad miniのようなタブレット端末と一緒に持ち歩くこ
 さらにトラックボールを搭載して、キーボードのから手を離さずにすべてを操作を行うことができます。  
 (トラックボールを利用する際のソースコードは[こちら](https://github.com/takashicompany/qmk_firmware/tree/minizone/trackball/keyboards/takashicompany/minizone/keymaps/trackball))。
 
+<img src = "https://github.com/takashicompany/minizone/blob/master/images/08.jpg" width="400px" />
+<img src = "https://github.com/takashicompany/minizone/blob/master/images/04.jpg" width="400px" />
+<img src = "https://github.com/takashicompany/minizone/blob/master/images/02.jpg" width="400px" />
+<img src = "https://github.com/takashicompany/minizone/blob/master/images/daihuku/DSC02823.jpg?raw=true" width="400px" />
 ---
 
 miniZone is a compact keyboard designed to be carried with a tablet device like iPad mini.  
@@ -29,6 +33,10 @@ In addition, a trackball is included, allowing you to perform all operations wit
 (Source code for using the trackball is [here](https://github.com/takashicompany/qmk_firmware/tree/minizone/trackball/keyboards/takashicompany/minizone/keymaps/trackball)).  
 
 ## トラックボールでの動作
+
+**2022年9月現在、市場で流通しているPimoroni Trackball(PIM447)の動作が安定していないため、取り付けは推奨致しません。
+基盤やケースは実装に対応しておりますが、取り付ける際は自己責任でお願いします。**
+
 https://user-images.githubusercontent.com/4215759/162611440-2bb0ec75-2dbf-48b8-8c0d-54c8666c1aff.mp4
 
 - トラックボールを指定の秒数(デフォルトでは10ミリ秒)動かし続けると、マウス入力レイヤーが有効になる。
@@ -46,7 +54,8 @@ https://user-images.githubusercontent.com/4215759/162611440-2bb0ec75-2dbf-48b8-8
 |[7mmオプティカル１uタイプ](https://shop.yushakobo.jp/products/adtb7m)|マウス入力レイヤー対応|マウス入力レイヤー対応|
 |[PIM447](https://www.marutsu.co.jp/pc/i/32844496/)|トラックボールのクリック/マウス入力レイヤー対応|トラックボールのクリックのみ|
 
-**※トラックボールは有線接続時にのみ使用可能です。**
+**※トラックボールは有線接続時にのみ使用可能です。**  
+**※PIM447は磁気センサーを用いたトラックボールですので、従来の光学式のトラックボールと比較すると使い心地がやや異なります。**
 
 ## 部品
 
@@ -63,9 +72,9 @@ https://user-images.githubusercontent.com/4215759/162611440-2bb0ec75-2dbf-48b8-8
 |[ダイオード(表面実装型)](https://shop.yushakobo.jp/collections/all-keyboard-parts/products/a0800di-02-100)|38||
 |[タクトスイッチ](https://akizukidenshi.com/catalog/g/gP-08081/)|1||
 |ゴム足シール|8||
-|M2ネジ 8mm|12||
-|M2ネジ 5mm|10||
-|M2スペーサー 7mm|6||
+|M2ネジ ゴールド8mm|12||
+|M2ネジ ゴールド5mm|10||
+|M2スペーサー ゴールド7mm|6||
 |M2ナット|10||
 
 
@@ -114,12 +123,15 @@ https://user-images.githubusercontent.com/4215759/162611440-2bb0ec75-2dbf-48b8-8
 
 ### Pimoroni Trackballモジュール(PIM447)を搭載する場合
 
+**2022年9月現在、市場で流通しているPimoroni Trackball(PIM447)の動作が安定していないため、取り付けは推奨致しません。
+基盤やケースは実装に対応しておりますが、取り付ける際は自己責任でお願いします。**
+
 Rev5以降で搭載が可能です。  
 **[7mmオプティカルトラックボールモジュール１uタイプ](https://shop.yushakobo.jp/products/adtb7m)とは使用感が異なりますので、留意ください。**
 
 |部品|個数|備考|
 |:--|:--|:--|
-|[PIM447](https://www.marutsu.co.jp/pc/i/32844496/)|1|BLE Micro Proには非対応|
+|[PIM447](https://www.marutsu.co.jp/pc/i/32844496/)|1|**個体差があるようですので、組立前に動作を確認しておくと良いです。**|
 |[5ピンソケット](https://www.hirosugi-net.co.jp/shop/g/g24082/)|1||
 
 ### BLE Micro Pro用に電源を搭載する場合
@@ -468,6 +480,10 @@ BLE Micro Proの取り扱いは[こちら](https://sekigon-gonnoc.github.io/BLE-
 キーマップや設定ファイルのサンプルは[こちら](https://github.com/takashicompany/BLE-Micro-Pro/tree/minizone/bmp/AboutDefaultFirmware/keyboards/takashicompany/minizone)です。
 
 ### 17. Pimoroni Trackballモジュール(PIM447)の取り付け
+
+**2022年9月現在、市場で流通しているPimoroni Trackball(PIM447)の動作が安定していないため、取り付けは推奨致しません。
+基盤やケースは実装に対応しておりますが、取り付ける際は自己責任でお願いします。**
+
 Rev5以降のPCBで取り付けが可能です。  
 **[7mmオプティカルトラックボールモジュール１uタイプ](https://shop.yushakobo.jp/products/adtb7m)とは使用感が異なりますので、留意ください。**
 
@@ -478,6 +494,8 @@ Rev5以降のPCBで取り付けが可能です。
 <img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_0502.jpg?raw=true" width="600px" />
 
 5ピンソケットをハンダ付けします。  
+PIM447は個体差があるようですので、先にファームウェアを書き込んでポインターの挙動が不安定でないかを確認しておくと安心かと思います。  
+[トラックボール部分を黒く染める](https://twitter.com/4py1/status/1560674696462737409)と動作がスムーズになることがあるようです。実施の際は自己責任でお願いします。  
 <img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_0553.jpg?raw=true" width="600px" />
 
 トラックボールモジュールとスペーサーが干渉するので、必要応じてトラックボールモジュールの端を切り落とします。  
