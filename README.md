@@ -1,5 +1,8 @@
 # miniZone
 
+## 0.8uキーキャップの3Dモデルデータを公開しております。無料でキーキャップを入手できるかも？詳しくは[こちら](https://zenn.dev/takashicompany/articles/c2db96b32dfebf)
+
+
 <img src = "https://github.com/takashicompany/minizone/blob/master/images/daihuku/DSC02839.jpg?raw=true" width="600px" />
 
 miniZoneはiPad miniのようなタブレット端末と一緒に持ち歩くことをコンセプトにしたコンパクトなキーボードです。  
