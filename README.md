@@ -67,7 +67,7 @@ https://user-images.githubusercontent.com/4215759/162611440-2bb0ec75-2dbf-48b8-8
 |:--|:--|:--|
 |PCB|1||
 |スイッチプレート|1||
-|側面プレート|1||
+|側面プレート|1|ロットによっては左右で別れていることがあります。|
 |ボトムプレート|1||
 |Pro Microプレート|1||
 |OLED Pro Microプレート|1||
@@ -310,6 +310,10 @@ Pro Microプレートを取り付ける際に支柱となるスペーサーを�
 <img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_0234.jpg?raw=true" width="600px" />
 
 ### 9. 側面プレートとボトムプレートの取り付け
+
+側面プレートはロットによって、左右に分割されたものか一体型のいずれかが同梱されております。  
+どちらも機能的には同様です。  
+<img width="600px" alt="image" src="https://user-images.githubusercontent.com/4215759/213215581-220c6795-0b51-4807-a10c-f13273ae44d7.png">
 
 側面プレートの保護シートを剥がします。  
 <img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_0237.jpg?raw=true" width="600px" />
