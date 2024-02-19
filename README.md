@@ -66,12 +66,6 @@ https://user-images.githubusercontent.com/4215759/162611440-2bb0ec75-2dbf-48b8-8
 |部品|個数|備考|
 |:--|:--|:--|
 |PCB|1||
-|スイッチプレート|1||
-|側面プレート|1|ロットによっては左右で別れていることがあります。|
-|ボトムプレート|1||
-|Pro Microプレート|1||
-|OLED Pro Microプレート|1||
-|トラックボール Pro Microプレート|1||
 |[ダイオード(表面実装型)](https://shop.yushakobo.jp/collections/all-keyboard-parts/products/a0800di-02-100)|38||
 |[タクトスイッチ](https://akizukidenshi.com/catalog/g/gP-08081/)|1||
 |ゴム足シール|8||
@@ -82,8 +76,17 @@ https://user-images.githubusercontent.com/4215759/162611440-2bb0ec75-2dbf-48b8-8
 
 
 ### ご自身で用意頂くもの
+
+※ ケースのプレートは[遊舎工房のキーボードアクリルプレート](https://shop.yushakobo.jp/products/keyboard_acrylic_plate?_pos=1&_sid=b7960c985&_ss=r&variant=47389323067623)で注文できます。
+
 |部品|個数|備考|
 |:--|:--|:--|
+|スイッチプレート|1|[※](https://shop.yushakobo.jp/products/keyboard_acrylic_plate?_pos=1&_sid=b7960c985&_ss=r&variant=47389323067623)|
+|側面プレート|1|ロットによっては左右で別れていることがあります。[※](https://shop.yushakobo.jp/products/keyboard_acrylic_plate?_pos=1&_sid=b7960c985&_ss=r&variant=47389323067623)|
+|ボトムプレート|1|[※](https://shop.yushakobo.jp/products/keyboard_acrylic_plate?_pos=1&_sid=b7960c985&_ss=r&variant=47389323067623)|
+|Pro Microプレート|1|[※](https://shop.yushakobo.jp/products/keyboard_acrylic_plate?_pos=1&_sid=b7960c985&_ss=r&variant=47389323067623)|
+|OLED Pro Microプレート|1|[※](https://shop.yushakobo.jp/products/keyboard_acrylic_plate?_pos=1&_sid=b7960c985&_ss=r&variant=47389323067623)|
+|トラックボール Pro Microプレート|1|[※](https://shop.yushakobo.jp/products/keyboard_acrylic_plate?_pos=1&_sid=b7960c985&_ss=r&variant=47389323067623)|
 |[Kailh Choc v1キースイッチ](https://shop.yushakobo.jp/collections/all-switches/products/pg1350)|38||
 |0.8uキーキャップ(16mm)|38|詳細は後述|
 |Pro Micro|1|BLE Micro Proにも対応済み|
