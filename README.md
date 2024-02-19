@@ -68,12 +68,14 @@ https://user-images.githubusercontent.com/4215759/162611440-2bb0ec75-2dbf-48b8-8
 |PCB|1||
 |[ダイオード(表面実装型)](https://shop.yushakobo.jp/collections/all-keyboard-parts/products/a0800di-02-100)|38||
 |[タクトスイッチ](https://akizukidenshi.com/catalog/g/gP-08081/)|1||
+|[HU1632](https://www.monotaro.com/p/8835/2765/)|1|コイン電池「CR1632」を搭載可能です。|
+|[チップ積層セラミックコンデンサー](https://akizukidenshi.com/catalog/g/gP-02151/)|1||
+|[電源スイッチ(MK12C02)](https://ja.aliexpress.com/item/32798526843.html)|1||
 |ゴム足シール|8||
 |M2ネジ ゴールド8mm|12||
 |M2ネジ ゴールド5mm|10||
 |M2スペーサー ゴールド7mm|6||
 |M2ナット|10||
-
 
 ### ご自身で用意頂くもの
 
