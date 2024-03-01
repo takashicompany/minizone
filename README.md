@@ -1,6 +1,6 @@
 # miniZone
 
-## 0.8uキーキャップの3Dモデルデータを公開しております。無料でキーキャップを入手できるかも？詳しくは[こちら](https://zenn.dev/takashicompany/articles/c2db96b32dfebf)
+## 0.8uキーキャップの3Dモデルデータを公開しております。無料でキーキャップを入手できるかも？  詳しくは[こちら](https://zenn.dev/takashicompany/articles/c2db96b32dfebf)。
 
 
 <img src = "https://github.com/takashicompany/minizone/blob/master/images/daihuku/DSC02839.jpg?raw=true" width="600px" />
@@ -66,24 +66,29 @@ https://user-images.githubusercontent.com/4215759/162611440-2bb0ec75-2dbf-48b8-8
 |部品|個数|備考|
 |:--|:--|:--|
 |PCB|1||
-|スイッチプレート|1||
-|側面プレート|1||
-|ボトムプレート|1||
-|Pro Microプレート|1||
-|OLED Pro Microプレート|1||
-|トラックボール Pro Microプレート|1||
 |[ダイオード(表面実装型)](https://shop.yushakobo.jp/collections/all-keyboard-parts/products/a0800di-02-100)|38||
 |[タクトスイッチ](https://akizukidenshi.com/catalog/g/gP-08081/)|1||
+|[HU1632](https://www.monotaro.com/p/8835/2765/)|1|コイン電池「CR1632」を搭載可能です。|
+|[チップ積層セラミックコンデンサー](https://akizukidenshi.com/catalog/g/gP-02151/)|1||
+|[電源スイッチ(MK12C02)](https://ja.aliexpress.com/item/32798526843.html)|1||
 |ゴム足シール|8||
 |M2ネジ ゴールド8mm|12||
 |M2ネジ ゴールド5mm|10||
 |M2スペーサー ゴールド7mm|6||
 |M2ナット|10||
 
-
 ### ご自身で用意頂くもの
+
+※ ケースのプレートは[遊舎工房のキーボードアクリルプレート](https://shop.yushakobo.jp/products/keyboard_acrylic_plate?_pos=1&_sid=b7960c985&_ss=r&variant=47389323067623)で注文できます。
+
 |部品|個数|備考|
 |:--|:--|:--|
+|スイッチプレート|1|[※](https://shop.yushakobo.jp/products/keyboard_acrylic_plate?_pos=1&_sid=b7960c985&_ss=r&variant=47389323067623)|
+|側面プレート|1|ロットによっては左右で別れていることがあります。[※](https://shop.yushakobo.jp/products/keyboard_acrylic_plate?_pos=1&_sid=b7960c985&_ss=r&variant=47389323067623)|
+|ボトムプレート|1|[※](https://shop.yushakobo.jp/products/keyboard_acrylic_plate?_pos=1&_sid=b7960c985&_ss=r&variant=47389323067623)|
+|Pro Microプレート|1|[※](https://shop.yushakobo.jp/products/keyboard_acrylic_plate?_pos=1&_sid=b7960c985&_ss=r&variant=47389323067623)|
+|OLED Pro Microプレート|1|[※](https://shop.yushakobo.jp/products/keyboard_acrylic_plate?_pos=1&_sid=b7960c985&_ss=r&variant=47389323067623)|
+|トラックボール Pro Microプレート|1|[※](https://shop.yushakobo.jp/products/keyboard_acrylic_plate?_pos=1&_sid=b7960c985&_ss=r&variant=47389323067623)|
 |[Kailh Choc v1キースイッチ](https://shop.yushakobo.jp/collections/all-switches/products/pg1350)|38||
 |0.8uキーキャップ(16mm)|38|詳細は後述|
 |Pro Micro|1|BLE Micro Proにも対応済み|
@@ -310,6 +315,10 @@ Pro Microプレートを取り付ける際に支柱となるスペーサーを�
 <img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_0234.jpg?raw=true" width="600px" />
 
 ### 9. 側面プレートとボトムプレートの取り付け
+
+側面プレートはロットによって、左右に分割されたものか一体型のいずれかが同梱されております。  
+どちらも機能的には同様です。  
+<img width="600px" alt="image" src="https://user-images.githubusercontent.com/4215759/213215581-220c6795-0b51-4807-a10c-f13273ae44d7.png">
 
 側面プレートの保護シートを剥がします。  
 <img src = "https://github.com/takashicompany/minizone/blob/master/images/build/IMG_0237.jpg?raw=true" width="600px" />
